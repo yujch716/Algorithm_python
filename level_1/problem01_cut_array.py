@@ -17,4 +17,4 @@ if __name__ == "__main__":
         numbers, num1, num2 = inputs
         result = solution(numbers, num1, num2)
         assert result == expected, f"테스트 실패: 입력값={inputs}, 기대값={expected}, 결과값={result}"
-    print("모든 테스트 통과!")
+    print("성공!")
