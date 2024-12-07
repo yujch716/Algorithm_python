@@ -1,5 +1,5 @@
 # 문제 제목 :
-# 난이도 :
+# 난이도 : Level 0
 # 링크 :
 
 def solution(num1):
