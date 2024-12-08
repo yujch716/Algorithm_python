@@ -3,7 +3,7 @@
 # 링크 :
 
 def solution(num1):
-    return
+    return num1
 
 
 # 테스트 코드
