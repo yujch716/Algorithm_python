@@ -14,7 +14,7 @@ if __name__ == "__main__":
     test_cases = [
         ((6), 1),
         ((10), 5),
-        ((4), 2)
+        ((5), 5)
     ]
 
     for inputs, expected in test_cases:
