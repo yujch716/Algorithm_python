@@ -11,7 +11,8 @@ if __name__ == "__main__":
     test_cases = [
         ((1234), 10),
         ((930211), 16),
-        ((8400144), 21)
+        ((8400144), 21),
+        ((54321), 15)
     ]
 
     for inputs, expected in test_cases:
