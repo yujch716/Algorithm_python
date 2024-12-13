@@ -11,7 +11,8 @@ def solution(numbers):
 if __name__ == "__main__":
     test_cases = [
         (([1, 2, 3, 4, 5]), 20),
-        (([0, 31, 24, 10, 1, 9]), 744)
+        (([0, 31, 24, 10, 1, 9]), 744),
+        (([4, 6, 12, 5, 6]), 72)
     ]
 
     for inputs, expected in test_cases:
