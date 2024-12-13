@@ -21,7 +21,7 @@ if __name__ == "__main__":
         ((24), 6),
         ((999), 201),
         ((2), 2),
-        ((4), 2)
+        ((5), 1)
     ]
 
     for inputs, expected in test_cases:
