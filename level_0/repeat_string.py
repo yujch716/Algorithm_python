@@ -9,7 +9,8 @@ def solution(my_string, n):
 # 테스트 코드
 if __name__ == "__main__":
     test_cases = [
-        (("hello", 3), "hhheeellllllooo")
+        (("hello", 3), "hhheeellllllooo"),
+        (("hi", 2), "hhii")
     ]
 
     for inputs, expected in test_cases:
