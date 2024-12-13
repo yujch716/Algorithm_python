@@ -17,7 +17,8 @@ def solution(numer1, denom1, numer2, denom2):
 if __name__ == "__main__":
     test_cases = [
         ((1, 2, 3, 4), [5, 4]),
-        ((9, 2, 1, 3), [29, 6])
+        ((9, 2, 1, 3), [29, 6]),
+        ((1, 3, 5, 2), [17, 6])
     ]
 
     for inputs, expected in test_cases:
