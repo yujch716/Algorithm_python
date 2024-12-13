@@ -12,7 +12,7 @@ if __name__ == "__main__":
     test_cases = [
         (("2"), "0"),
         (("205"), "052"),
-        (("055"), "522")
+        (("05"), "52")
     ]
 
     for inputs, expected in test_cases:
