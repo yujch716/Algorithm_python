@@ -18,7 +18,8 @@ def solution(array):
 if __name__ == "__main__":
     test_cases = [
         (([1, 8, 3]), [8, 1]),
-        (([9, 10, 11, 8]), [11, 2])
+        (([9, 10, 11, 8]), [11, 2]),
+        (([2, 4, 6, 8]), [8, 3])
     ]
 
     for inputs, expected in test_cases:
