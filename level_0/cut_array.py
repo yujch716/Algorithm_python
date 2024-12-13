@@ -10,7 +10,8 @@ def solution(numbers, num1, num2):
 if __name__ == "__main__":
     test_cases = [
         (([1, 2, 3, 4, 5], 1, 3), [2, 3, 4]),
-        (([1, 3, 5], 1, 2), [3, 5])
+        (([1, 3, 5], 1, 2), [3, 5]),
+        (([2, 4, 6, 8], 2, 2), [6])
     ]
 
     for inputs, expected in test_cases:
