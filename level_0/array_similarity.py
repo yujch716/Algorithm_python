@@ -11,7 +11,7 @@ if __name__ == "__main__":
     test_cases = [
         ((["a", "b", "c"], ["com", "b", "d", "p", "c"]), 2),
         ((["n", "omg"], ["m", "dot"]), 0),
-        ((["he", "l", "lo"], ["hi", "he", "li"]), 1)
+        ((["he", "l", "lo"], ["hi", "he", "ho"]), 1)
     ]
 
     for inputs, expected in test_cases:
