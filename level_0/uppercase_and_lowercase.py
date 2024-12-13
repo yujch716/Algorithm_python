@@ -11,7 +11,7 @@ if __name__ == "__main__":
     test_cases = [
         (("cccCCC"), "CCCccc"),
         (("abCdEfghIJ"), "ABcDeFGHij"),
-        (("Hello"), "hELLO")
+        (("HellO"), "hELLo")
     ]
 
     for inputs, expected in test_cases:
