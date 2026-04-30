@@ -1,6 +1,6 @@
 # 문제 제목 : 모의고사
 # 난이도 : Level 1
-# 링크 :
+# 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/42840
 
 def solution(answers):
     patterns = {
