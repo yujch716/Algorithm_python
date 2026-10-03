@@ -1,6 +1,4 @@
 a, b, c = 5, 6, 7
-b, a, c = a, c, 6
+a, b, c = c, a, b
 
-print(a)
-print(b)
-print(c)
+print(a, b, c, sep="\n")
