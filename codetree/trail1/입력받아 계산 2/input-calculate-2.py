@@ -1,3 +1,6 @@
 num = input()
 arr = num.split()
-print(f"{int(arr[0]) * int(arr[1])}")
+a = int(arr[0])
+b = int(arr[1])
+
+print(a*b)
