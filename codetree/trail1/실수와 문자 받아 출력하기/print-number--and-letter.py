@@ -1,7 +1,7 @@
 c = input()
-a = input()
-b = input()
+a = float(input())
+b = float(input())
 
 print(c)
-print(f"{float(a):.2f}")
-print(f"{float(b):.2f}")
+print(f"{a:.2f}")
+print(f"{b:.2f}")
